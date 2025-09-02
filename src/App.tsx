@@ -1,12 +1,12 @@
 import React from 'react';
 import Hero from './components/Hero';
 import TrustedBy from './components/TrustedBy';
-import About from './components/About';
 import Services from './components/Services';
+import About from './components/About';
 import LeadGeneration from './components/LeadGeneration';
 import Development from './components/Development';
-import Testimonials from './components/Testimonials';
 import Portfolio from './components/Portfolio';
+import Testimonials from './components/Testimonials';
 import FAQ from './components/FAQ';
 import Contact from './components/Contact';
 import Footer from './components/Footer';
@@ -16,12 +16,12 @@ function App() {
     <div className="min-h-screen bg-black text-white overflow-x-hidden">
       <Hero />
       <TrustedBy />
-      <About />
       <Services />
+      <About />
       <LeadGeneration />
       <Development />
-      <Testimonials />
       <Portfolio />
+      <Testimonials />
       <FAQ />
       <Contact />
       <Footer />
